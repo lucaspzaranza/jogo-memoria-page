@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Memoria",
+"productVersion": "1.0",
+"dataUrl": "Memoria Web.data.unityweb",
+"asmCodeUrl": "Memoria Web.asm.code.unityweb",
+"asmMemoryUrl": "Memoria Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Memoria Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.13f1"
+}
